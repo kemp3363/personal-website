@@ -30,4 +30,8 @@
   text-align: center;
 }
 
+.grow-size{
+  transform: scale(1.7);
+}
+
 }
